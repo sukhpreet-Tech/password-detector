@@ -1,2 +1,1 @@
-# password-detector
-Password Strength Checker is a Python tool that analyzes passwords and classifies them as Weak, Medium, or Strong based on length, letters, numbers, and special characters. It helps users create more secure passwords while demonstrating basic cybersecurity and Python programming concepts.
+Password Strength Checker is a smart Python-based security tool that evaluates password strength using essential cybersecurity standards. It analyzes length, character diversity, numbers, and special symbols to classify passwords as Weak, Medium, or Strong. Designed with simplicity and efficiency in mind, this project helps users build stronger passwords and improve their digital security while showcasing practical Python programming and cybersecurity fundamentals.
